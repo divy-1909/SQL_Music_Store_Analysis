@@ -1,13 +1,31 @@
-# SQL_Project_Music_Store_Analysis
-SQL project to analyze online music store data
+# SQL Music Store Analysis
 
-This project is for beginners and will teach you how to analyze the music playlist database. You can examine the dataset with SQL and help the store understand its business growth by answering simple questions.
+## 📌 Project Overview
+This project analyzes the **Music Store** database using **SQL** to extract business insights, such as top-selling genres, revenue trends, and customer behavior.
 
-> Complete project explained on YouTube: https://www.youtube.com/watch?v=VFIuIjswMKM
+## 📂 Key Insights
+- Identified **top revenue-generating artists** and **popular music genres**.
+- Analyzed **customer spending patterns** and **sales trends**.
+- Used **SQL queries** for data extraction and analysis.
 
-## Database and Tools
-* Postgre SQL
-* PgAdmin4
+## 🛠️ Technologies Used
+- **SQL** (Joins, Aggregations, Window Functions)
+- **PostgreSQL/MySQL**
+- **Data Analysis & Visualization**
+
+## 🚀 How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/divy-1909/SQL_Music_Store_Analysis.git
+   ```
+2. Import the database into your SQL environment.
+3. Run the queries to analyze data.
+
+## 📌 Author
+- **Divya Agarwal**  
+- GitHub: [divy-1909](https://github.com/divy-1909)
+
+
 
 Schema- Music Store Database  
 ![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
