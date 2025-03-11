@@ -13,17 +13,6 @@ This project analyzes the **Music Store** database using **SQL** to extract busi
 - **PostgreSQL/MySQL**
 - **Data Analysis & Visualization**
 
-## 🚀 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/divy-1909/SQL_Music_Store_Analysis.git
-   ```
-2. Import the database into your SQL environment.
-3. Run the queries to analyze data.
-
-## 📌 Author
-- **Divya Agarwal**  
-- GitHub: [divy-1909](https://github.com/divy-1909)
 
 
 
